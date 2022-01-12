@@ -139,16 +139,18 @@ nav {
     height: 60vh;
     background: #f1f1f1;
     padding-left: 3vmin;
-    font-size: 20px;
-    font-size: 4vmin;
+    font-size: 15px;
+    font-size: 3vmin;
 }
 
 /* Style the list inside the menu */
 nav ul {
     /* list-style-type: none; */
     /* padding: 0; */
-    padding: 10px;
-    padding: 3vmin;
+    padding: 5px;
+    padding: 2vmin;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 nav ul li {
